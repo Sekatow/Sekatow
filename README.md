@@ -1,4 +1,6 @@
-### Hi there 👋
+### Sekatow 👋
+___
+CEO de Gifted Studios y en proceso de dasarrollo de Xplary.
 
 <!--
 **Sekatow/Sekatow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
